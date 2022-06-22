@@ -1,7 +1,7 @@
 
 # Engineering Internship
 
-### Subject : Semantic-Segmentation-with-High--and-Low-level-Consistency
+### Subject : Semantic Segmentation with High and Low-level Consistency
 ### Host : Concordia University
 ### Supervisors : Prof. Nizar BOUGUILA and M. Vahid KHORASANI GHASSAB 
 
